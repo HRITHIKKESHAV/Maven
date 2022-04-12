@@ -2,3 +2,6 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
 </properties>
+
+mvn install :- the command which should be given inside hellomaven folder to run and compile all the test cases and form into a package
+java -cp .\target\hellomaven-1.0-SNAPSHOT.jar com.hrithik.App
